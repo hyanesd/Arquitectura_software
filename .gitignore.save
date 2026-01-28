@@ -1,16 +1,7 @@
-# Entorno virtual
 venv/
-
-# Archivos Python
 __pycache__/
 *.pyc
-
-# Base de datos
 db.sqlite3
-
-# Archivos de entorno
 .env
-
-# Archivos del sistema
 .DS_Store
 
